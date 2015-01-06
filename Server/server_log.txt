@@ -1,0 +1,15 @@
+Server Starting
+Client Joined
+Server Starting
+Client Joined
+Server Starting
+Client Joined
+Server Starting
+Client Joined
+Server Starting
+Client Joined
+Server Starting
+Client Joined
+Sending: welcome
+Server Starting
+Client Joined
